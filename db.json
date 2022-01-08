@@ -1,0 +1,35 @@
+{
+    "Major":[
+        {
+            "ID":"1",
+            "Name":"IT",
+            "university":["RUPP","ITC","Norton","Setec","Paragon","UC","AUPP"],
+            "SubjectRequire":["Math","Physic","English"],
+            "Decription":"What major is",
+            "Price":["...","..."],
+            "Job":["Job list"],
+            "Subject":["...","..."],
+            "img":"URL"
+        },
+        {
+            "ID":"2",
+            "Name":"Business",
+            "university":["RUPP","NUM","RULE","Paragon","Camad","AUPP","ACLEDA","CBS"],
+            "SubjectRequire":["Math","Physic","English"],
+            "Decription":"What is major",
+            "Price":["...","..."],
+            "Job":["Job list"],
+            "Subject":["...","..."],
+            "img":"URL"
+        }
+    ],
+    "University":[
+        {
+            "Name":"Business",
+            "Address":"",
+            "Decription":"..."
+         
+            
+        }
+    ]
+}
